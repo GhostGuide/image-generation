@@ -1,0 +1,5 @@
+{
+  "name": "UGC Image Studio",
+  "description": "An AI-powered application for generating high-quality UGC-style fashion and product images. Upload reference images, get an auto-generated prompt, and create stunning visuals with NanoBanana.",
+  "requestFramePermissions": []
+}
